@@ -8,6 +8,10 @@ You can clone the repository and execute the following commands from inside the 
 
 ```
 javac RandomMazeGenerator.java
+```
 
+Java class files will be created inside the src folder, then run:
+
+```
 java RandomMazeGenerator
 ```
