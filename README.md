@@ -1,6 +1,8 @@
-# Random-Maze-Generator
+# Random Maze Generator
 
 Use recursion to generate a random maze at each run.
+
+> **_NOTE:_** Since this program is using the terminal, the walls will be created using the '#' character.
 
 ## How to use the Project
 
